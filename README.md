@@ -9,10 +9,4 @@ O objetivo deste projeto hands-on é consolidar o conhecimento em POO em Java at
 ## Descrição
 Neste projeto, disponibilizo uma implementação de referência que utiliza conceitos de POO e Java para criar um banco digital. Explorando o contexto bancário, os pilares da orientação a objetos são aplicados para que os participantes possam reproduzir a solução e desenvolver sua capacidade de abstração.
 
-## Requisitos Técnicos
-- Conhecimentos básicos de Programação Orientada a Objetos em Java;
-- Ambiente de desenvolvimento Java configurado;
-- Acesso à internet para acesso ao projeto de referência no GitHub;
-- Familiaridade com o uso de repositórios Git (opcional, mas recomendado);
-- Capacidade de abstração para reproduzir a solução proposta e implementar melhorias.
 
