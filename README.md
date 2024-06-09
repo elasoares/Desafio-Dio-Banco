@@ -6,7 +6,5 @@ Este desafio prático visa reforçar o conhecimento em Programação Orientada a
 ## Objetivo
 O objetivo deste projeto hands-on é consolidar o conhecimento em POO em Java através da implementação de um banco digital.
 
-## Descrição
-Neste projeto, disponibilizo uma implementação de referência que utiliza conceitos de POO e Java para criar um banco digital. Explorando o contexto bancário, os pilares da orientação a objetos são aplicados para que os participantes possam reproduzir a solução e desenvolver sua capacidade de abstração.
 
 
